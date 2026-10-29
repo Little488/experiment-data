@@ -1,0 +1,6 @@
+test10:background
+test11、12：7200rpm
+test13、14：8100rpm
+test15、16：9000rpm
+test17、18：9600rpm
+test19、20：10000rpm
